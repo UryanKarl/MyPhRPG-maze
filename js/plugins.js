@@ -11,11 +11,11 @@ var $plugins =
 {"name":"KMS_SaveWithSnap","status":true,"description":"[v0.1.0] Add captured image on save/load scene.","parameters":{"Image scale":"0.15","Enable JPEG":"1"}},
 {"name":"ULDS","status":true,"description":"Unlimited Layer Display System.","parameters":{"Default Path":"parallaxes","Default Z":"0.5"}},
 {"name":"MKR_PlayerMoveForbid","status":true,"description":"(v1.0.5) 玩家禁止移动","parameters":{"Default_Move_Flag":"200","Default_Menu_Flag":"true","Enter Flag":"true"}},
-{"name":"YZ_yuyan_qiehuan","status":true,"description":"语言切换.","parameters":{}},
-{"name":"YZ_Language_china","status":true,"description":"语言文本.","parameters":{}},
-{"name":"YZ_Language_ENG","status":true,"description":"语言文本.","parameters":{}},
+{"name":"YZ_yuyan_qiehuan","status":false,"description":"语言切换.","parameters":{}},
+{"name":"YZ_Language_china","status":false,"description":"语言文本.","parameters":{}},
+{"name":"YZ_Language_ENG","status":false,"description":"语言文本.","parameters":{}},
 {"name":"YZ_export","status":false,"description":"工程文本导出.","parameters":{}},
 {"name":"YED_WordWrap_DSmodi2","status":true,"description":"YED文本自动换行功能（智能换行 + 中英文不同字号）","parameters":{"Break Word":"true","Chinese Font Size":"24","English Font Size":"20"}},
-{"name":"SmartPath_DSmodi","status":true,"description":"智能寻路事件追逐","parameters":{}},
+{"name":"SmartPath_DSmodi","status":true,"description":"智能寻路事件追逐 (增强版：避开事件障碍 + 允许绕路)","parameters":{}},
 {"name":"OggOnly","status":true,"description":"Use only ogg files to play the audio.","parameters":{"deleteM4a":"false"}}
 ];

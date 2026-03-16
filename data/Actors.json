@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"mydei","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"mydei","traits":[],"initialLevel":1,"maxLevel":99,"name":"万敌","nickname":"","note":"<stand_sml:[\"002\",\"0\",\"0\"]>","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"phainon","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"phainon","traits":[],"initialLevel":1,"maxLevel":99,"name":"白厄","nickname":"","note":"<stand_sml:[\"002\",\"0\",\"0\"]>","profile":""},
-{"id":3,"battlerName":"","characterIndex":2,"characterName":"phainon2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"phainon2","traits":[],"initialLevel":1,"maxLevel":99,"name":"黑厄","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":2,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Cyrene","traits":[],"initialLevel":1,"maxLevel":99,"name":"咪发迷","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"phainon","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"phainon","traits":[],"initialLevel":1,"maxLevel":99,"name":"白厄","nickname":"","note":"<stand_sml:[\"002\",\"0\",\"0\"]>","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"phainon2","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"phainon2","traits":[],"initialLevel":1,"maxLevel":99,"name":"黑厄","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"mem","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"mimi","traits":[],"initialLevel":1,"maxLevel":99,"name":"蓝色的妖精","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":5,"characterName":"mem","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mimi","traits":[],"initialLevel":1,"maxLevel":99,"name":"咪发迷","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
