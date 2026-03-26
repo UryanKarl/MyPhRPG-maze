@@ -19,5 +19,6 @@ var $plugins =
 {"name":"SmartPath_DSmodi","status":true,"description":"智能寻路事件追逐 (增强版：避开事件障碍 + 允许绕路)","parameters":{}},
 {"name":"OggOnly","status":true,"description":"Use only ogg files to play the audio.","parameters":{"deleteM4a":"false"}},
 {"name":"TitleCommandPosition","status":true,"description":"Changes the position of the title command window.","parameters":{"Offset X":"250","Offset Y":"50","Width":"150","Background":"2"}},
-{"name":"loadingchange2","status":true,"description":"","parameters":{}}
+{"name":"loadingchange2","status":true,"description":"随机加载图","parameters":{}},
+{"name":"LoadingOverlay","status":false,"description":"全局加载图（过场图覆盖）","parameters":{}}
 ];
