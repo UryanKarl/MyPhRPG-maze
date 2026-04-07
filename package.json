@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "myphairpg-maze",
     "main": "index.html",
     "js-flags": "--expose-gc",
     "window": {
