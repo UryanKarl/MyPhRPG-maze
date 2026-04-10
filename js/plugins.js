@@ -22,5 +22,6 @@ var $plugins =
 {"name":"loadingchange2","status":true,"description":"随机加载图","parameters":{}},
 {"name":"LoadingOverlay","status":false,"description":"全局加载图（过场图覆盖）","parameters":{}},
 {"name":"YZ_pintu","status":true,"description":"拼图系统.","parameters":{"拼图胜利开关ID":"55","胜利播放动画ID":"44"}},
-{"name":"MOG_CharacterShadow","status":true,"description":"MOG角色阴影显示[v1.0]","parameters":{"X-Axis":"0","Y-Axis":"-4","Shadow File Name":"Shadow1","Auto Shadow (Events)":"false"}}
+{"name":"MOG_CharacterShadow","status":true,"description":"MOG角色阴影显示[v1.0]","parameters":{"X-Axis":"0","Y-Axis":"-4","Shadow File Name":"Shadow1","Auto Shadow (Events)":"false"}},
+{"name":"YEP_SaveEventLocations","status":true,"description":"v1.06 Enable specified maps to memorize the locations of\nevents when leaving and loading them upon reentering map.","parameters":{}}
 ];
