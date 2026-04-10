@@ -30,5 +30,5 @@ null,
 {"id":28,"expanded":true,"name":"试玩结束","order":29,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":29,"expanded":true,"name":"树庭黑夜地图预加载","order":14,"parentId":8,"scrollX":1081.3333333333333,"scrollY":1312},
 {"id":30,"expanded":true,"name":"试玩开场","order":3,"parentId":16,"scrollX":1092,"scrollY":608},
-{"id":31,"expanded":false,"name":"图书馆引入","order":20,"parentId":9,"scrollX":832,"scrollY":640}
+{"id":31,"expanded":false,"name":"图书馆引入","order":20,"parentId":9,"scrollX":1092,"scrollY":608}
 ]
